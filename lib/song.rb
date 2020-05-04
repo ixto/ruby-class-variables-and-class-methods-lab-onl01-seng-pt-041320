@@ -6,7 +6,7 @@ class Song
      @artist = artist 
      @genre = genre 
       @@count = 3
-      @@artists = []
+      @@artists = ["Jay-Z", "Jay-Z", "Brittany Spears"]
   end
   
    def name
