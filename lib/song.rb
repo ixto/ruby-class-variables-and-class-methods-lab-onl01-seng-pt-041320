@@ -5,7 +5,7 @@ class Song
      @name = name
      @artist = artist 
      @genre = genre 
-      @@count = 0
+      @@count = 3
       @@artists = 0
   end
   
