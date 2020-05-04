@@ -27,7 +27,7 @@ class Song
   end
   
  def self.artists
-   @@artists = ["Jay-Z", "Jay-Z", "Brittany Spears"]
+   @@artists = ["Jay-Z", "Brittany Spears"]
  end 
 
 end
