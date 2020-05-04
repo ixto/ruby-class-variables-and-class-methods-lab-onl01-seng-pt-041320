@@ -30,4 +30,7 @@ class Song
    @@artists = ["Jay-Z", "Brittany Spears"]
  end 
 
+ def self.genres
+   @@genres = 
+
 end
