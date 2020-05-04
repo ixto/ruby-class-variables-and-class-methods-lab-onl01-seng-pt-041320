@@ -38,7 +38,7 @@ class Song
    @@genres = {"pop" => 1, "rap" => 2}
  end
 
- def sel.artist_count
+ def self.artist_count
    @@artists = {"Brittany Spears" => 1, "Jay-Z" => 2}
  end 
 end
