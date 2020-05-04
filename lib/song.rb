@@ -34,6 +34,6 @@ class Song
    @@genres = ["rap", "pop"]
  end 
  
- 
+ def self.genre_count
 
 end
