@@ -31,6 +31,9 @@ class Song
  end 
 
  def self.genres
-   @@genres = 
+   @@genres = ["rap", "pop"]
+ end 
+ 
+ 
 
 end
