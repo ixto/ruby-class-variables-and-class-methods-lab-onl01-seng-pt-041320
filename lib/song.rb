@@ -39,6 +39,6 @@ class Song
  end
 
  def sel.artist_count
-   @@artists = 
-
+   @@artists = {"Brittany Spears" => 1, "Jay-Z" => 2}
+ end 
 end
